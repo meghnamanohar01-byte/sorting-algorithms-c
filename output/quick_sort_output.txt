@@ -1,0 +1,9 @@
+QUICK SORT
+Input : 324 125 456 218 102 389 275 147 
+Partition 1 (pivot 147): 125 102 147 218 324 389 275 456 
+Partition 2 (pivot 102): 102 125 147 218 324 389 275 456 
+Partition 3 (pivot 456): 102 125 147 218 324 389 275 456 
+Partition 4 (pivot 275): 102 125 147 218 275 389 324 456 
+Partition 5 (pivot 324): 102 125 147 218 275 324 389 456 
+Sorted: 102 125 147 218 275 324 389 456 
+Partitions: 5, Comparisons: 16, Swaps: 12
